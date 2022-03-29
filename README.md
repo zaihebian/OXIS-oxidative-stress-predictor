@@ -12,4 +12,4 @@ Please put these two files in the same fold with the files set_coefs.csv and mod
 Then you run the code in test.ipynb, a file named "results.csv" will be created with the predicted oxidative stress in the column named OxiStress.
 
 Plus:
-OxisModel.py is the source code for training the model  
+Files in directory Codes are the source code for training the model and applications of this model
